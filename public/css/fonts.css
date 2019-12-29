@@ -1,0 +1,90 @@
+@font-face {
+  font-family: "Oakes Grotesk";
+  src: url("../assets/fonts/OakesGrotesk-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Oakes Grotesk";
+  src: url("../assets/fonts/OakesGrotesk-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Oakes Grotesk";
+  src: url("../assets/fonts/OakesGrotesk-Bold.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Oakes Grotesk";
+  src: url("../assets/fonts/OakesGrotesk-BoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Oakes Grotesk";
+  src: url("../assets/fonts/OakesGrotesk-Light.ttf") format("truetype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Oakes Grotesk";
+  src: url("../assets/fonts/OakesGrotesk-LightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Reforma 1918";
+  src: url("../assets/fonts/Reforma1918-Blanca.otf") format("opentype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Reforma 1918";
+  src: url("../assets/fonts/Reforma1918-BlancaItalica.otf") format("opentype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Reforma 1918";
+  src: url("../assets/fonts/Reforma1918-Gris.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Reforma 1918";
+  src: url("../assets/fonts/Reforma1918-GrisItalica.otf") format("opentype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Reforma 1918";
+  src: url("../assets/fonts/Reforma1918-Negra.otf") format("opentype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Reforma 1918";
+  src: url("../assets/fonts/Reforma1918-NegraItalica.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Halant";
+  src: url("../assets/fonts/Halant-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Halant";
+  src: url("../assets/fonts/Halant-Light.ttf") format("truetype");
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Halant";
+  src: url("../assets/fonts/Halant-Bold.ttf") format("truetype");
+  font-weight: 600;
+}
